@@ -1,0 +1,17 @@
+{
+	"authors": [
+		"RimakiTaema"
+	],
+	"dependencies": [],
+	"description": "The Lab Dimensional Adventure Example Mod",
+	"incompatibilities": [],
+	"load_before": [],
+	"name": "ExampleMod",
+	"optional_dependencies": [],
+	"repo_url": "https://github.com/RimakiTaema/TheLabDimExampleMod",
+	"requires_game_version": "0.0.1_*a",
+	"tags": [
+		"other"
+	],
+	"version_number": "api_0.0.1_alldate_a"
+}
